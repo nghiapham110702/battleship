@@ -29,23 +29,3 @@ create grid for each player and allow each player to place their boats. Agent mo
 responsible for keeping track of two grids. Each player will take turn to take attack until
 one of the player’s boats all sunk and the one still have some boat remaining is the
 winner.
-
-Final Result:
-This lab was very difficult and fun at the same time. I think me and my partner did
-a great job for this lab. The collaboration between us is not about splitting even work for
-each other, but rather than if one of us is stuck with something, we solve it together,
-which makes the process of finishing this lab a lot faster. I think the hardest part in this
-lab is the communication between your teammate because my partner was responsible for
-Agent.c and Message.c, but in order for him to test his code, I need to finish my part
-since his part rely on my part. What we did is that, we didn't really care who was
-responsible for which files, because I sometimes helped my partner to debug his code and
-sometimes he helped me debug my code. The strategy I found testing effectively is that
-we first work on the module that do not rely on any other module and then we make sure
-it work properly so that when we work on other module that rely on this module, we
-don’t have to worry about this module is wrong. What I learned in this Lab is that the
-communication between your teammate is extremely important and the way you write the
-test harness for each module. What I love about this lab is that it taught me the important
-of teammate. Like you can not create something big without people collaborate each
-other. What I would change about this lab, is that I wish the lab manual is more in depth
-in their description and the time should be longer for this lab because me and my partner
-did not really get to play the game. Overall, this lab was fun to do.
