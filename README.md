@@ -28,6 +28,7 @@ easily work with.
 activity and updates the user display.
 
 Summary of the Lab:
+
 In this lab, we are required to create an OG game which is call BattleBoats where
 each player secretly place their boats without letting other player knows and each player
 will have to take turn to guess. The game will end when one of the player are out of
