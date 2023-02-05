@@ -3,8 +3,11 @@ I worked with Ezra Frary in this project.
 
 I WROTE:
 -FIELD.C
+
 -NEGOTIATION.C
+
 -AGENTTEST.C
+
 -MESSAGETEST.C
 
 
