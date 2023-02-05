@@ -13,6 +13,16 @@ I WROTE:
 
 ![framworkBB](https://user-images.githubusercontent.com/103624639/216800387-87cda903-1916-40f3-b75c-90521c9e1613.PNG)
 
+This is standard event-based framework, in which a constellation of reactive services exchange information in the form of events.
+  - A  transmission   service   handles   wired   communication
+between the two agents. This module detects incoming characters,
+translating incoming electrical signals into data that other modules can
+easily work with. 
+
+  - A button service detects button events.
+
+  - An agent service manages the high-level game playing
+activity and updates the user display.
 
 Summary of the Lab:
 In this lab, we are required to create an OG game which is call BattleBoats where
