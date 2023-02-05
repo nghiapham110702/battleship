@@ -14,6 +14,8 @@ I WROTE:
 
 ![framworkBB](https://user-images.githubusercontent.com/103624639/216800387-87cda903-1916-40f3-b75c-90521c9e1613.PNG)
 
+Credit from UC Santa Cruz professor Steve mcGuire.
+
 This is standard event-based framework, in which a constellation of reactive services exchange information in the form of events.
   - A  transmission   service   handles   wired   communication
 between the two agents. This module detects incoming characters,
