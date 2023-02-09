@@ -45,3 +45,11 @@ create grid for each player and allow each player to place their boats. Agent mo
 responsible for keeping track of two grids. Each player will take turn to take attack until
 one of the player’s boats all sunk and the one still have some boat remaining is the
 winner.
+
+Demo Video:
+
+
+https://user-images.githubusercontent.com/103624639/217942174-9422a91e-cf76-44bd-844c-e4bb00a91406.mp4
+
+
+  
